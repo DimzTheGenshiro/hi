@@ -1,0 +1,15 @@
+{
+  "name": "ip-to-telegram",
+  "version": "1.0.0",
+  "description": "Kirim IP visitor ke Telegram via Vercel",
+  "main": "api/index.js",
+  "scripts": {
+    "dev": "vercel dev",
+    "start": "vercel dev"
+  },
+  "dependencies": {
+    "axios": "^1.6.0"
+  },
+  "author": "Cati",
+  "license": "MIT"
+}
